@@ -19,7 +19,7 @@ JComboBox jcb,jcbm1,jcbm2,jcbm3,jcbm4,jcbm5,jcbm6,jcbw1,jcbw2,jcbw3,jcbw4;
 JButton jb1,jb2,jb3,jb4,jb5;
 JFrame frame1,frame2,frame3;
 String cat[] = {"Men","Women"},size[]={"Size","S","M","L"},ms1,ms2,mp1,mp2,wd1,wd2,ws1,ws2,mss1,mss2,mps1,mps2,wds1,wds2,wss1,wss2,msq1,msq2,mpq1,mpq2,wdq1,wdq2,wsq1,wsq2;
-int sel,tms1=0,tms2=0,tmp1=0,tmp2=0,twd1=0,twd2,tws1=0,tws2=0,total=0;
+int sel,tms1=0,tms2=0,tmp1=0,tmp2=0,twd1=0,twd2,tws1=0,tws2=0;
 JTabbedPane jtp1,jtp2,jtp3;
 JPanel jpm1,jpm2,jpm3;
 JCheckBox jc1,jc2,jc3,jc4,jcw1,jcw2,jcw3,jcw4;
