@@ -262,7 +262,7 @@ add(jc2);
 }}
 class mpants extends JPanel{
 public mpants(){
-ii3 = new ImageIcon("D:\\My Documents\\Desktop\\javaimage\\bluejeans.png");
+ii3 = new ImageIcon("your image");
 Image image3 = ii3.getImage();
 Image newimg3 = image3.getScaledInstance(175, 175,  java.awt.Image.SCALE_SMOOTH);
 ImageIcon ii3 = new ImageIcon(newimg3);
@@ -300,7 +300,7 @@ else{tmp1 -=40;}
    }}
        });
 
-ii4 = new ImageIcon("D:\\My Documents\\Desktop\\javaimage\\blackpant.png");
+ii4 = new ImageIcon("your image");
 Image image4 = ii4.getImage();
 Image newimg4 = image4.getScaledInstance(175, 175,  java.awt.Image.SCALE_SMOOTH);
 ImageIcon ii4 = new ImageIcon(newimg4);
